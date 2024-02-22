@@ -1,5 +1,6 @@
-# Efficient_LocationRobust_TDOALoc_MPR-Python-Python
+# Efficient_LocationRobust_TDOALoc_MPR-Python
 Python implementation of the simulation for paper "Computationally Efficient and Location Robust TDOA Positioning Estimator in MPR for IoT Device"
+
 By Chengyu Li and Y. Sun, College of Computer Science, Sichuan University
 
 A computationally efficient and location robust estimator for TDOA localization in MPR, which is designed for IoT device. The solution performs similarly to the GTRS solution [1] but requires less computational load.
